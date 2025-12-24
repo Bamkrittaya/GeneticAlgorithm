@@ -1,0 +1,6 @@
+Parent1: 01000
+Parent2: 01111
+Crossover point: 3
+Child before mutation: 01011
+Mutation index: 1
+Child after mutation: 00011

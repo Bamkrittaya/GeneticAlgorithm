@@ -1,0 +1,7 @@
+=== FINAL GA RESULT ===
+Best x found: -1
+Objective f(x): 25
+Fitness: -25
+
+=== Interpretation ===
+The GA converged to a reasonably good solution.
